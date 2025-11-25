@@ -1,0 +1,1 @@
+- Difference results to a laplacian distribution around the mean value equals to 0 (derivated from the gaussian distribution?)
